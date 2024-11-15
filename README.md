@@ -81,7 +81,9 @@ rtsp://192.168.1.100:8554/stream
 If this project was helpful, consider supporting the author:
 
 BTC: bc1qy20dmmg4s73dn6j8c64m9n2t37acjqa400rpgh
+
 ETH (ERC20): 0x99350FC8847Fd4DDA5CB40A3d395e69574123d46
+
 USDT (TRC20): TAZdminBeSRm77pfUQpw629M7htsNA47Dw
 
 Disclaimer: This project is provided "as is" without any warranties. Use it at your own risk.
