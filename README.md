@@ -85,6 +85,3 @@ ETH (ERC20): 0x99350FC8847Fd4DDA5CB40A3d395e69574123d46
 USDT (TRC20): TAZdminBeSRm77pfUQpw629M7htsNA47Dw
 
 Disclaimer: This project is provided "as is" without any warranties. Use it at your own risk.
-✨ Short Description
-
-BatMic.bat is a BAT script that turns your PC into an IP microphone by streaming audio over RTSP using VLC Media Player.
